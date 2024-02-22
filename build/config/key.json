@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "spider-sense-monitor",
+  "private_key_id": "f4736c959696d86493edfb73d6fd19275c8f37d2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCYURL2MTkIFRg7\nb8zf2O1y585z0gLQwj/l1b5D541PMKF3EPXmw42uz6EByd9HzKcVlsWCoA5MwOWP\nh90hf3VrsmDzdnWsoEFZ613R0u8Cb6Ggx8f3PjPObtsVCkKmi/3QShQ5Y85y7nRj\n5TyJ6XOJ/ekAcp7gxSuAZg1gmQE61q0qikk1zrczF1HFJL3hbnfcqJfi5QJocrG0\nnieQpwOYbHbVt4OLgBfHbckTWDZAjauD1FnYsRufCY+WAxHMrQRFzf1YxVJ3kuk3\nbaCSiUKzE2SwJmINFduLsJnokYBX4g2xtBXkaxQ53TmKt+4XONxQnXsosHPuefEy\nppLE6uQVAgMBAAECggEADiaGDPIwurP+/tKZpXgpQyIO94qcsVlCh28ukG9sHN3H\nOmEMf0ZOnN10N07SXADCywopSkPlYDMRgJ6eKBUHyxwUzrmEICf5OknX+vzOMJs/\nWEkHJkyUkoqQ9ujvnTpnN5kSPOytStclX/x1fdh+3+SDZ4O+h+I5cuHIP1+nkhgn\n51B0nIV3BXgStiOw0Ch3LA0k2+gmDA9Aav8+mfg7wKJjGQHOjkUeM2yeFl8lKSSy\nxMrxhKGTX2upFkPDTeun9o7msVkD+ao0ezYqIWZGfBTk/JUCmXsKVVCrvQMruqhu\nXvNcUW9VgPvDMheS/8mGY6P1RRDzSs84pM72glQ5ZwKBgQDIpTPtijBCD7yosmav\nKq7EY+uHsfhFR47sxyZpuqFlwsbg1RIxIe7Vj28n85rvYzIDoMvX2Gsk5jm8xESH\nAwlzlgEHH43BMgHDSdBQDNcFLmi2YSoU5tvzVw1NNggfKG7FeGzKbmnaqK0Ulh0d\nr+fp7J2Sb9GhyfhcUoTlzFYYAwKBgQDCVpvNDLjcaDOHUm0JMOyXwyXDQ9MHf/x+\nV5YS7dkknr/QLaO4tU6NmzYBDbEPmn0xCvftrdDyv6n7OqgWHznoQrIaxb+oiXGF\n5xy41j2AzHH1EuFXiQIuqRtBhr/BsHEzGbEdTXHOkQeaoPEhtM6No+qt60u/jBDr\ngtNvUZAUBwKBgQCMl8X1MplyENjfVHLDVyMzFdjaMoiG8wdhPoLaHx4s0fjNXj/r\nEZ3rIyB+XCI6j8Vh6XAshMc/Cdt3PAfQmv4qcfeyaBfKQiIeF0DSdszMIqLY+Oil\n0MZakqsNaUjznD9SO3nvtsKRpxPwkudAABx/O3+GNrgrp/xRpLje1PmWxQKBgQC6\nW89gHLkRMyNmuxYwYCghiFOoIlw1rvf0OA2D7W3zfgA2o+2CbOr9RD/PVs/aRK2U\n4A3McIgUoNNiRWd2f09KeNrObZ9TASpJ28xhO6ES5/rHpulMxee/0w5+EbfFB2wm\nMpbzoJZoHg+KqpdRWU9R6ERdr2ueLbT0Ayq6bx6Y9QKBgQCxssI7+lpbPhJksTk8\nlPh9DhR/BgQW7jXMcZ1lPc2sieujfFD1Kpy/PML5mhm3Oow6Opt3jS3pTAVwnflx\njMRerOKjzDPB1946MrtPll2+5tX/Z6uvcSg7uWY9FSWaWM6J2Le8j+Vgj4cfi6cS\nNzQ4DDfmEz6Hmz/k/aWh+R7HTQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-ptsy2@spider-sense-monitor.iam.gserviceaccount.com",
+  "client_id": "102194379051805393205",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-ptsy2%40spider-sense-monitor.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
